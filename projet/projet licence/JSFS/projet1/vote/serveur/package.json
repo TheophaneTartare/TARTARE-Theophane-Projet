@@ -1,0 +1,17 @@
+{
+  "name": "chartio",
+  "version": "1.0.0",
+  "description": "prise en main de socket.io avec Chart.js",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Jean-Christophe Routier",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.7",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}

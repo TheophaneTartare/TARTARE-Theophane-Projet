@@ -1,0 +1,17 @@
+[
+    {
+      "studentNumber": "S001",
+      "lastName": "DUPONT",
+      "firstName": ["Jean", "Marc"]
+    },
+    {
+      "studentNumber": "S002",
+      "lastName": "MARTIN",
+      "firstName": ["Alice"]
+    },
+    {
+      "studentNumber": "S003",
+      "lastName": "LEFEVRE",
+      "firstName": ["Paul", "Henri"]
+    }
+  ]

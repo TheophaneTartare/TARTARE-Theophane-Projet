@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+
+<head>
+	<meta charset="UTF-8"/>
+	<title>PAGE TITLE</title>
+	<meta name="author" content="your name"/>
+
+	<link rel="stylesheet" type="text/css" href="./style/admin.css" title="starship style"/>
+	
+</head>
+
+<body>
+
+	<h1>Admin - Gestion des Votes sa a changer</h1>
+
+	<div id="adminMessage"></div>
+
+	<div id="adminActions">
+		<label for="voteText">Entrez votre texte de vote :</label>
+		<input type="text" id="voteText" disabled/>
+		<button id="openVoteBtn" disabled>Ouvrir le Vote</button>
+		<button id="closeVoteBtn" disabled>Clore le Vote</button>
+	</div>
+
+	<div id="voteInfo"> 
+		<p>Nombre de votants</p>
+		<p>Connectés : <span id="votantconect">0</span></p>
+		<p>Votes reçus : <span id="votereçu">0</span></p>
+	</div>
+
+	<div id="votingResults" style="display: none;">
+		<h2>Résultats du Vote</h2>
+		
+		<div id="chart">
+			<canvas id = "myChart"></canvas>
+		</div>
+		
+	</div>
+
+</body>
+
+</html>

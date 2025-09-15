@@ -1,0 +1,21 @@
+images={
+    "HH":"interfaceGraphique/graphics/highway-cross.png",
+    "Hc":"interfaceGraphique/graphics/highway-curve.png",
+    "Hj":"interfaceGraphique/graphics/highway-junction.png",
+    "H":"interfaceGraphique/graphics/highway-straight.png",
+    "F":"interfaceGraphique/graphics/orientation.png",
+    "HR":"interfaceGraphique/graphics/overpass.png",
+    "RR":"interfaceGraphique/graphics/railway-cross.png",
+    "Rc":"interfaceGraphique/graphics/railway-curve.png",
+    "Rj":"interfaceGraphique/graphics/railway-junction.png",
+    "R":"interfaceGraphique/graphics/railway-straight.png",
+    "SHR":"interfaceGraphique/graphics/station-crosspng",
+    "Sc":"interfaceGraphique/graphics/station-curve.png",
+    "FSc":"interfaceGraphique/graphics/station-curve-flip.png",
+    "SH":"interfaceGraphique/graphics/station-highway-junction.png",
+    "SR":"interfaceGraphique/graphics/station-railway-junction.png",
+    "SS":"interfaceGraphique/graphics/station-reflect.png",
+    "S":"interfaceGraphique/graphics/station-straight.png",
+    "fleche":"interfaceGraphique/graphics/fleche.png"
+
+}   

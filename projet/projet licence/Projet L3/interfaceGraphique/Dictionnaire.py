@@ -1,0 +1,49 @@
+images={
+    "HH":"interfaceGraphique/graphics/highway-cross.png",
+    "Hc":"interfaceGraphique/graphics/highway-curve.png",
+    "Hj":"interfaceGraphique/graphics/highway-junction.png",
+    "H":"interfaceGraphique/graphics/highway-straight.png",
+    "F":"interfaceGraphique/graphics/orientation.png",
+    "HR":"interfaceGraphique/graphics/overpass.png",
+    "RR":"interfaceGraphique/graphics/railway-cross.png",
+    "Rc":"interfaceGraphique/graphics/railway-curve.png",
+    "Rj":"interfaceGraphique/graphics/railway-junction.png",
+    "R":"interfaceGraphique/graphics/railway-straight.png",
+    "SHR":"interfaceGraphique/graphics/station-cross.png",
+    "Sc":"interfaceGraphique/graphics/station-curve.png",
+    "FSc":"interfaceGraphique/graphics/station-curve-flip.png",
+    "SH":"interfaceGraphique/graphics/station-highway-junction.png",
+    "SR":"interfaceGraphique/graphics/station-railway-junction.png",
+    "SS":"interfaceGraphique/graphics/station-reflect.png",
+    "S":"interfaceGraphique/graphics/station-straight.png",
+    "fleche":"interfaceGraphique/graphics/fleche.png"
+}   
+
+placement={
+    "7":0,
+    "6":1,
+    "5":2,
+    "4":3,
+    "3":4,
+    "2":5,
+    "1":6,
+    "A":0,
+    "B":1,
+    "C":2,
+    "D":3,
+    "E":4,
+    "F":5,
+    "G":6
+}
+
+
+orientation = {
+    "N":0,
+    "W":90,
+    "S":180,
+    "E":270,
+    "F":0,
+    "FR":90,
+    "FU":180,
+    "FL":270
+}
