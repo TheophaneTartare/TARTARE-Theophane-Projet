@@ -1,4 +1,7 @@
 # Analyse de Eclipse Collection
+# Contexte du Projet
+Pendant les cours de génie logiciel, nous avons dû réaliser, en binôme, une analyse du code de la bibliothèque Java Eclipse Collections, que vous pouvez consulter ci-dessous.
+
 ## Auteur :
 TARTARE Théophane
 

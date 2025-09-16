@@ -1,5 +1,11 @@
 # Règles du Jeu 
 
+# Contexte du projet
+
+Dans ce projet de groupe de troisième année de Licence, il fallait adapter le jeu **Railroad Ink** en utilisant le langage de notre choix ainsi qu’un réflecteur.  
+
+Vous pouvez consulter le dossier *Rétrospective* si vous souhaitez plus de détails sur la conception et la répartition des tâches de ce projet.
+
 # Compiler et lancer 
 
 # Les autres modules

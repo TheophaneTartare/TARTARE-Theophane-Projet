@@ -1,5 +1,12 @@
 # l2s4-projet-2024
 
+# Contexte du projet
+
+Il s’agit du résultat de l’UE *Projet* de ma deuxième année de Licence, et de notre premier véritable travail en groupe.  
+
+Le sujet, que vous pouvez consulter ci-dessous, demandait d’adapter le jeu **Zombicide** en Java.  
+
+Ce projet n’est pas parfait, mais il constitue une expérience non négligeable en matière de développement en équipe.
 
 # Equipe
 
