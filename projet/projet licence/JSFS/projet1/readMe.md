@@ -8,7 +8,7 @@ npm install
 
 npm install socket.io chart.js socket.io-client
 
-npm install websocket
+npm install ws
 
 npm install html-webpack-plugin --save-dev
 
@@ -23,13 +23,13 @@ faite la meme chose dans vote/clien
 ## Compilation 
 dans un terminal aller dans vote/clien et faite 
 
-``` npm run build ```
+``` npx webpack --config ./webpack-config.js ```
 
 
 ## Execution
 dans un terminal aller dans vote/serveur et faite 
 
-``` npm run start ```
+``` node main.js ```
 
 puis sur firefox aller sur le lien ``` http://localhost:8080/ ``` 
 
