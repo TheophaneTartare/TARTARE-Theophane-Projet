@@ -16,3 +16,5 @@ Si vous êtes intéressé par mon profil ou si vous souhaitez obtenir plus d’i
 Ce dépôt GitHub rassemble différents projets issus de mes études ou réalisés à titre personnel, afin de mettre en avant mes compétences en développement.
 
 Tous ces projets ont été réalisés sous GitLab afin de faciliter la mise à jour du code et d’optimiser le travail en équipe.
+
+Notez que les projets de licence ont été développés sous Linux avec les serveurs de l’Université de Lille et utilisent d’anciennes versions de logiciels. Il est donc très probable qu’ils ne fonctionnent pas correctement sur votre machine.
