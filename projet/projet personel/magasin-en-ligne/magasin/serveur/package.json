@@ -1,0 +1,31 @@
+{
+  "name": "magasin-en-ligne",
+  "version": "1.0.0",
+  "description": "Auteur : TARTARE Théophane\r ## Sujet\r L'objectif est de créer un serveur similaire à ceux présents dans **./projet licence/JSFS**, où se trouve un mini magasin en ligne. On peut y créer un compte, se connecter, mettre des articles en vente et les acheter. Il y a aussi une page admin où l'on peut bannir des comptes.\r ## Comment faire fonctionner \r À faire.\r ## Logiciels nécessaires\r Node.js, MongoDB",
+  "license": "ISC",
+  "author": "TARTARE",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.19.3",
+    "morgan": "^1.10.1",
+    "pug": "^3.0.3",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^13.0.1",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.4",
+    "style-loader": "^4.0.0"
+  }
+}
